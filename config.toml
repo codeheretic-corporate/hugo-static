@@ -1,7 +1,7 @@
 baseURL = "https://codeheretic.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Againt The Moon"
+title = "Against The Moon"
 disableKinds = ["rss"]
 theme = "hermit"
 # enableGitInfo = true
